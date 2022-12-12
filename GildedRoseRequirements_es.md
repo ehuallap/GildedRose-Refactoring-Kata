@@ -29,7 +29,7 @@ Bastante simple, ¿no? Bueno, ahora es donde se pone interesante:
 * Una "Entrada al Backstage", como el queso brie, incrementa su `calidad` a medida que la `fecha de venta` se aproxima
   * si faltan 10 días o menos para el concierto, la `calidad` se incrementa en `2` unidades
   * si faltan 5 días o menos, la `calidad` se incrementa en `3` unidades
-  * luego de la `fecha de venta` la `calidad` cae a `0`
+  * luego de la `fecha del concierto` la `calidad` cae a `0`
 
 ## El requerimiento
 
